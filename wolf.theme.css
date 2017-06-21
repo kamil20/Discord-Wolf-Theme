@@ -1,18 +1,18 @@
-﻿//META{"name":"Wolf_Theme","description":"A simple wolf theme based off of Discord Prism.","author":"Wolfie","version":"0.0.6"}*//
+﻿//META{"name":"Wolf_Theme","description":"A simple wolf theme based off of Discord Prism.","author":"Wolfie","version":"0.0.7"}*//
 /*Background*/
 .theme-dark .channel-members-loading {
     display: none;
 }
 
 .app {
-    background-image: url("https://thatonewolfie.github.io/homepage/wolfback.jpg");
+    background-image: url("https://thatonewolfie.github.io/images/wolfback.jpg");
     background-repeat: repeat;
     background-position: 0px 0px;
     background-size: cover;
 }
 
 .connecting {
-    background-image: url("https://thatonewolfie.github.io/homepage/wolfback.jpg");
+    background-image: url("https://thatonewolfie.github.io/images/wolfback.jpg");
     background-blend-mode: soft-light;
     background-repeat: repeat;
     background-position: 0px 0px;
@@ -245,7 +245,7 @@
     padding-right: 5px;
 }
 .user-popout .header {
-	background-image: url("https://thatonewolfie.github.io/homepage/wolfstatus.png")
+	background-image: url("https://thatonewolfie.github.io/images/wolfstatus4.png")
 }
 
 .user-popout .body {
@@ -374,7 +374,7 @@ div.section.notes {
 }
 
 #user-profile-modal .header:after { /* Header */
-	background-image: url( "https://thatonewolfie.github.io/homepage/wolfback.jpg" );
+	background-image: url( "https://thatonewolfie.github.io/images/wolfback.jpg" );
 	background-color: #7289DA;
 	position: absolute;
 	top: 0;
@@ -416,6 +416,7 @@ div.section.notes {
 	border: solid 5px white;
 	border-radius: 100%;
 }
+/*Nitro Tag*/
 .avatar-large[style*="a_"] + .comment .message.first .body .username-wrapper:after {
 	content: 'Nitro';
 	color: white;
@@ -487,4 +488,12 @@ div.section.notes {
 .contentSelectedVoice-gTtYM9:active{
     background-color: rgba(0,0,0,.3);
 }
-
+/*BetterDiscord Avatar Background*/
+.bd-blue .user-popout .header {
+    background: url(https://thatonewolfie.github.io/images/wolfstatus4.png);
+}
+/*Scrollbar*/
+.scrollerThemed-19vinI.themeDark-BdSAwu .scroller-fzNley::-webkit-scrollbar-thumb, .theme-dark .scrollerWrap-2uBjct .scroller-fzNley::-webkit-scrollbar-thumb, .theme-light .scrollerThemed-19vinI.themeDark-BdSAwu .scroller-fzNley::-webkit-scrollbar-thumb {
+    background-color: #0061ff;
+    border-color: transparent;
+}
