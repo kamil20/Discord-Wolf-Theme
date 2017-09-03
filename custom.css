@@ -3,6 +3,33 @@
 .theme-dark .channel-members-loading {
     display: none;
 }
+/*Fixes Role color bar*/
+.popout header {
+    background-color: #0049FF;
+    padding: 13px;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 500;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    position: relative;
+    border-radius: 3px 3px 0 0;
+}
+#autocomplete-popout .empty h4 {
+    color: #0049FF;
+    font-size: 16px;
+    font-weight: 700;
+    text-align: center;
+    margin: 15px 0 0;
+}
 /*Fix color issues for editing a message*/
 .message-group .edit-message .edit-operation>a {
     color: #194BFF;
