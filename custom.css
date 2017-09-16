@@ -3,6 +3,10 @@
 .theme-dark .channel-members-loading {
     display: none;
 }
+/*Fixes Blocked User messages*/
+.quick-message.isBlocked {
+    background: #111111;
+}
 /*Fixes Role color bar*/
 .popout header {
     background-color: #0049FF;
