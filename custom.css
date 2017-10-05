@@ -3,6 +3,12 @@
 .theme-dark .channel-members-loading {
     display: none;
 }
+/*Fixes Mention Color*/
+.mention-RlZ5F3 {
+    -webkit-transition: background-color .2s ease-in-out;
+    background-color: #0049FF;
+    transition: background-color .2s ease-in-out;
+}
 /*Fixes Blocked User messages*/
 .quick-message.isBlocked {
     background: #111111;
