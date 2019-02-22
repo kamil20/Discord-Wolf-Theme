@@ -11,7 +11,7 @@ First Go to C:\Users\%username%\AppData\Local\ and go into your discord folder. 
 First Go to C:\Users\%username%\%appdata%\BetterDiscord\Themes and place the theme file in there. It's very simple! Then go onto discord and go to User Settings> Themes> And click the Wolf Theme slider and the theme should apply!
 
 # How to download the theme
-Go over to the releases and then click the latest one! The source code is nothing important so don't download that. Download wolf.theme.css and then follow the tutorial.
+Go over to the releases and then click the latest one! The source code is nothing important so don't download that. Download Wolf.in.bule.night.css and then follow the tutorial.
 
 # Theme Look
 ![Wolf Theme Preview](https://github.com/kamil20/Discord-Wolf-Theme/blob/master/Fantasy-Wolf-Wallpaper-680x425.png)
