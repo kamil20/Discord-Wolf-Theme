@@ -8,7 +8,7 @@ To install BeautifulDiscord look at their guide at https://github.com/beautiful-
 First Go to C:\Users\%username%\AppData\Local\ and go into your discord folder. Once there go to the app-*.* folder and then go to resources and then take the theme and put it in there. Delete the other css file. Rename the theme file to discord-custom.css and then go to discord and press Ctrl + R and the theme should apply!
 
 # How To Install The Theme In BetterDiscord
-First Go to C:\Users\%username%\%appdata%\BetterDiscord\Themes and place the theme file in there. It's very simple! Then go onto discord and go to User Settings> Themes> And click the Wolf Theme slider and the theme should apply!
+First Go to C:\Users\%username%\%appdata%\BetterDiscord\Themes and place the theme file in there. It's very simple! Then go onto discord and go to User Settings> Themes> And click theWolf in bule night slider and the theme should apply!
 
 # How to download the theme
 Go over to the releases and then click the latest one! The source code is nothing important so don't download that. Download Wolf.in.bule.night.css and then follow the tutorial.
