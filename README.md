@@ -1,4 +1,4 @@
-# Discord Wolf Theme
+# Discord Wolf in bule night
 This is a BeautifulDiscord/BetterDiscord theme based off of Discord Prism. This is a beautiful theme if you are a wolf lover!
 
 # How To Install BeautifulDiscord/BetterDiscord
