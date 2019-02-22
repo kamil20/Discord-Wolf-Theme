@@ -14,7 +14,7 @@ First Go to C:\Users\%username%\%appdata%\BetterDiscord\Themes and place the the
 Go over to the releases and then click the latest one! The source code is nothing important so don't download that. Download wolf.theme.css and then follow the tutorial.
 
 # Theme Look
-![Wolf Theme Preview] https://github.com/kamil20/Discord-Wolf-Theme/blob/master/Fantasy-Wolf-Wallpaper-680x425.png
+![Wolf Theme Preview](https://raw.githubusercontent.com/Discord-Wolf-Theme/blob/master/Fantasy-Wolf-Wallpaper-680x425.png
 
 # Author
 This theme was made by the people who made Discord Prism and modified by Kamil20. 
